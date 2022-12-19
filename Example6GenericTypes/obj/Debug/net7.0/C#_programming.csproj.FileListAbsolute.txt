@@ -1,0 +1,15 @@
+E:\CSharp_programming\Example6GenericTypes\bin\Debug\net7.0\C#_programming.exe
+E:\CSharp_programming\Example6GenericTypes\bin\Debug\net7.0\C#_programming.deps.json
+E:\CSharp_programming\Example6GenericTypes\bin\Debug\net7.0\C#_programming.runtimeconfig.json
+E:\CSharp_programming\Example6GenericTypes\bin\Debug\net7.0\C#_programming.dll
+E:\CSharp_programming\Example6GenericTypes\bin\Debug\net7.0\C#_programming.pdb
+E:\CSharp_programming\Example6GenericTypes\obj\Debug\net7.0\C#_programming.csproj.AssemblyReference.cache
+E:\CSharp_programming\Example6GenericTypes\obj\Debug\net7.0\C#_programming.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp_programming\Example6GenericTypes\obj\Debug\net7.0\C#_programming.AssemblyInfoInputs.cache
+E:\CSharp_programming\Example6GenericTypes\obj\Debug\net7.0\C#_programming.AssemblyInfo.cs
+E:\CSharp_programming\Example6GenericTypes\obj\Debug\net7.0\C#_programming.csproj.CoreCompileInputs.cache
+E:\CSharp_programming\Example6GenericTypes\obj\Debug\net7.0\C#_programming.dll
+E:\CSharp_programming\Example6GenericTypes\obj\Debug\net7.0\refint\C#_programming.dll
+E:\CSharp_programming\Example6GenericTypes\obj\Debug\net7.0\C#_programming.pdb
+E:\CSharp_programming\Example6GenericTypes\obj\Debug\net7.0\C#_programming.genruntimeconfig.cache
+E:\CSharp_programming\Example6GenericTypes\obj\Debug\net7.0\ref\C#_programming.dll
